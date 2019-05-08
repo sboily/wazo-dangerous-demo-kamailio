@@ -1,1 +1,1 @@
-# wazo-applications-mini-ivr
+# wazo-dangerous-demo-kamailio
