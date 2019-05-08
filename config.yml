@@ -1,0 +1,10 @@
+wazo:
+  host: 
+  port: 
+  username: 
+  password: 
+  backend:
+  application_uuid: 
+mobile: 
+context:
+did:
